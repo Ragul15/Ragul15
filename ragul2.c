@@ -25,11 +25,11 @@ int main()
     }
     if(count==a)
     {
-        printf("Yes");
+        printf("YES");
     }
     else
     {
-        printf("No");
+        printf("NO");
     }
     return 0;
 }
